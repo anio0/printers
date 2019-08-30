@@ -26,5 +26,8 @@ int main() {
 	{
 		printers[i]->FancyPrint(words);
 	}
+	int k = 0, i = 1;
+	for(;k<i;){
+	}
 	system("pause");
 }
